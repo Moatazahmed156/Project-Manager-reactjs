@@ -1,12 +1,24 @@
-# React + Vite
+# 📁 Project Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Project Manager** is a user-friendly React application designed to help you manage multiple projects with ease. Create, view, and organize unlimited projects—each with its own set of tasks. You can add or delete tasks within any project, keeping your workflow clean and efficient.
+With a clean, intuitive interface and seamless task management features, staying on top of your projects has never been easier.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create and delete multiple projects
+- Add and remove tasks inside each project
+- Persistent data using Local Storage
+- Simple, responsive, and clean UI
+- Instant updates without page reloads
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
+- **React** – for building the UI
+- **React Hooks** – for state and side-effect management
+- **Tailwind CSS** – for styling
+- **Local Storage** – to store projects and tasks persistently in the browser
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+[🔗 View Live Demo](https://bright-pudding-2153b0.netlify.app/)
+---
+
+Feel free to contribute or fork the project. Built with ❤️ using React and Tailwind.
